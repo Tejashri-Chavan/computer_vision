@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "python-opencv",
+			"path": "."
+		},
+		{
+			"name": "Data",
+			"path": "../../Downloads/Data/Data"
+		}
+	],
+	"settings": {}
+}
